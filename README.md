@@ -1,3 +1,10 @@
+# Google App Store
+https://play.google.com/store/apps/details?id=com.premifarm.grower&pli=1
+<img src="./Screenshot_1.jpg" alt="">
+<img src="./Screenshot_2.jpg" alt="">
+
+# Relation URLS
+
 https://grower.free.beeceptor.com/getfloorsnumber       
 https://grower.free.beeceptor.com/get_floor1        
 https://capacitor-community.github.io/electron/docs/gettingstarted
